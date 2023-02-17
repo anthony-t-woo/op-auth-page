@@ -1,4 +1,16 @@
 .left-container {
     width: 40%;
     background-image: url(./assets/janetLaHaye-wallpapercave.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: slategrey;
+    height: 100vh;
+}
+
+.title-banner {
+    position: fixed;
+    top: 30%;
+    width: inherit;
+    height: 20%;
+    background-color: rgb(117 190 218 / 0.5); /* 50% transparent */
 }
